@@ -34,3 +34,8 @@ Array
     [5] => Five
     [6] => Six
 )
+
+
+## Output 10 armstrong numbers
+
+Here I have to find 10 armstrong numbers, ohh! but, only getting 9 , something is missing. Working on that. 
